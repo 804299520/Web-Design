@@ -5,6 +5,25 @@
     transform: translate(50%,-50%);
     text-align: center;
 }
+
+.centerL {
+    width: 240px;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+.centerR {
+    width: 240px;
+    position: absolute;
+    top: 50%;
+    right: 50%;
+    transform: translate(150%,-50%);
+    text-align: center;
+}
+
 .sizeH {
     margin-block-start: 0px;
     margin-block-end: 0px;
